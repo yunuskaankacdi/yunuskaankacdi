@@ -8,5 +8,5 @@ Sakarya Uygulamalı Bilimler Üniversitesi'nde Bilgisayar Mühendisliği öğren
 * 💻 **Kullandığım Teknolojiler:** Python, C, Linux (Kali), VirtualBox.
 
 ### 📫 İletişim
-* 📧 E-posta: sinankacdi@gmail.com
+* 📧 E-posta: yunuskaankacdi@gmail.com
 * 🔗 LinkedIn: [Yunus Kaan Kaçdı](https://www.linkedin.com/in/yunus-kaan-kaçdı-647404389)
