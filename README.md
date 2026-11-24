@@ -1,12 +1,19 @@
-# Merhaba, Ben Yunus Kaan! 👋
+### Hi, I'm Yunus Kaan 
 
-Sakarya Uygulamalı Bilimler Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Geliştirme süreçlerini otomatize etmeyi, algoritmalar tasarlamayı ve mühendislik yaklaşımıyla problem çözmeyi seviyorum.
+I'm a 2nd-year Computer Engineering student at **Sakarya University of Applied Sciences (SUBÜ)**, focusing on **backend development, database security, and applied AI**.
 
-### 🛠️ Neler Yapıyorum?
-* 🎓 **Eğitim:** Algoritma tasarımı, veri yapıları ve temel programlama (C, Python).
-* 🤖 **Odak Alanım:** Sistem otomasyonu, veri çekme (web scraping) ve Linux tabanlı araç geliştirme.
-* 💻 **Kullandığım Teknolojiler:** Python, C, Linux (Kali), VirtualBox.
+Currently working on system security research, architectural design, and test-environment simulations at **UGENX Technology**.
 
-### 📫 İletişim
-* 📧 E-posta: yunuskaankacdi@gmail.com
-* 🔗 LinkedIn: [Yunus Kaan Kaçdı](https://www.linkedin.com/in/yunus-kaan-kaçdı-647404389)
+---
+
+### 🛠️ Focus Areas
+- **Database & Backend Security:** PostgreSQL / Supabase Row Level Security (RLS), atomic concurrency control (`SELECT ... FOR UPDATE`), audit logging, and data-at-rest encryption concepts.
+- **System & Offensive Testing:** Linux host hardening (UFW), API security testing (Burp Suite), and Python-based PoC / automation scripts.
+- **Applied AI:** Local LLM integrations (Ollama / Llama 3), Python/Flask prototypes, and building safer AI workflows.
+
+### 💻 Tech Stack
+`Python` · `C` · `PostgreSQL` · `Supabase` · `Linux (Kali)` · `Flask` · `Git`
+
+### 📫 Contact
+- **LinkedIn:** [Yunus Kaan Kaçdı](https://www.linkedin.com/in/yunus-kaan-kacdi)
+- **Email:** yunuskaankacdi@gmail.com
